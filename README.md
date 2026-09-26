@@ -115,6 +115,7 @@ Political Science is the study of politics, government systems, political behavi
 - [The Constitution Project](https://constitutionproject.org/) – Advocacy and resources for rule of law and constitutional government.
 - [World Justice Project](https://worldjusticeproject.org/) – Independent data and tools on the rule of law.
 - [OECD Public Governance](https://www.oecd.org/governance/) – Research on public governance practices.
+- [Independent Parties of America](https://usaipa.org/) – Proposal for a U.S. political party in which candidates must first help write their community's own written statement of how it wants to live, with a fifty-state ballot access annex.
 
 ## Related Awesome Lists
 
